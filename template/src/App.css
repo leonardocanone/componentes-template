@@ -3,4 +3,24 @@
   text-align: center;
 }
 
+.footer{
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  gap: 3vw;
+  font-size: 1.2rem;
+}
+
+.Header{
+  display: flex;
+  align-items: center;
+  gap: 38vw;
+  color: rgb(203, 132, 0);
+  background-color: rgb(228, 220, 220);
+  font-size: 1.4rem;
+}
+
+.Header-logo{
+  width: 7vW;
+}
 
