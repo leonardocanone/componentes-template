@@ -1,5 +1,5 @@
 import { Copywrite } from "./Copywrite";
-import { RedesSociais } from "./Redes-sociais";
+import { RedesSociais } from "./RedesSociais";
 
 export function Footer(){
     return (
